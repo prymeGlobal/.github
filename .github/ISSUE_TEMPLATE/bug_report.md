@@ -6,20 +6,23 @@ labels: bug
 assignees: ''
 ---
 
-**Summary of the bug**
-A clear and concise description of what the bug is.
+## Summary of the bug
+<!-- A clear and concise description of what the bug is. -->
 
-**Version**
-Version of the app where te bug was replicated
+### Version
+<!-- Version of the app where the bug was replicated -->
 
-**Replication Steps + Screenshots**
+### References
+<!-- Link to a support ticket if any -->
+
+## Replication Steps + Screenshots
 Steps to reproduce the behavior:
 1. ..
-2. ..
-3. ..
-4. See error
+1. ..
+1. ..
+1. See error
 
-**Expected Result**
-A clear and concise description of what you expected to happen.
+## Expected Result
+<!-- A clear and concise description of what you expected to happen. -->
 
 <!--- Dont forget to label the bug appropriately
