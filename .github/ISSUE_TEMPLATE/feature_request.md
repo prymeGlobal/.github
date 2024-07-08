@@ -23,6 +23,10 @@ assignees: ''
 ***THEN***
 <!-- Describe the expected outcome or results of the test. -->
 
+- [ ] Tested and approved by developer
+- [ ] Tested and approved by QA
+
+
 ### Test case 2
 ***GIVEN***
 
@@ -32,6 +36,8 @@ assignees: ''
 
 ***THEN***
 
+- [ ] Tested and approved by developer
+- [ ] Tested and approved by QA
 
 ### Test case 3
 ***GIVEN***
@@ -42,7 +48,8 @@ assignees: ''
 
 ***THEN***
 
-
+- [ ] Tested and approved by developer
+- [ ] Tested and approved by QA
 
 <!--- Dont forget to label the feature appropriately. -->
 
