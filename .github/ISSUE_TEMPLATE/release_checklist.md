@@ -10,9 +10,10 @@ assignees: ''
 - [ ] _Hotfix_ branches are merged into main (if any)
 - [ ] Release branch created
 - [ ] Version is increased in main 
-- [ ] Translations are done
 - [ ] Release notes are in docs
 - [ ] Release notes with images are sent to marketing
+- [ ] Translations are done
+- [ ] Release is created
 - [ ] App is published and live
 - [ ] Documentation published live
 - [ ] Release branch is merged into main
