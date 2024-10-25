@@ -14,7 +14,7 @@ The items should be done in order and no later than the day indicated. E.g (T -3
 - [ ] Release notes are in docs. _(T -1d)_
 - [ ] Release notes with images are sent to marketing. _(T -1d)_
 - [ ] Translations are done. _(T -1d)_
-- [ ] Release is created. _(T -1d)_
+- [ ] Release is created from release branch. _(T -1d)_
 - [ ] App is published and live. _(T = Release day)_
 - [ ] Documentation published live. _(T = Release day)_
 - [ ] Release branch is merged into main. _(T = Release day)_
