@@ -4,7 +4,7 @@ about: "Checlist for a new hotfix"
 title: 'Hotfix X.Z.N checklist'
 assignees: ''
 ---
-Hotfix release must have a release version of X.Y.N where X.Y is the major minor of the _previous_ release and N is the hotfix number.
+Hotfix releases must have a release version of X.Y.N where X.Y is the major minor of the _previous_ release and N is the hotfix number.
 
 E.g. The previous release was 4.5, then the first hotfix for 4.5 will be 4.5.1
 Do not confuse this with the _build_ version, hotfix 4.5.1 could have build version 4.5.627.0
