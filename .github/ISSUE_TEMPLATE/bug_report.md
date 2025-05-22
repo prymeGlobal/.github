@@ -3,6 +3,7 @@ name: "Bug Report"
 about: "If something isn't working as expected."
 title: ''
 labels: bug
+type: bug
 assignees: ''
 ---
 
@@ -13,7 +14,7 @@ assignees: ''
 <!-- Version of the app where the bug was replicated -->
 
 ### References
-<!-- Link to a support ticket if any -->
+<!-- Link to a support ticket(s) if any -->
 
 ## Replication Steps + Screenshots
 Steps to reproduce the behavior:
