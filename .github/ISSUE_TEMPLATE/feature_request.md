@@ -1,8 +1,9 @@
 ---
-name: "Feature Request"
-about: "New feature request!"
+name: "Feature/Enhancement"
+about: "New feature/enhancement!"
 title: ''
 labels: enhancement
+type: feature
 assignees: ''
 ---
 ## Summary and business case
