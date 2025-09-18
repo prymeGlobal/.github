@@ -3,6 +3,7 @@ name: "Minor Release Checklist"
 about: "Checlist for a new MINOR release"
 title: 'Release 202X-ZY checklist'
 labels: admin
+type: task
 assignees: ''
 ---
 The items should be done in order and no later than the day indicated. E.g (T -3d) means at least 3 days before release.
