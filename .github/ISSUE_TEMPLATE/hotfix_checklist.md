@@ -3,6 +3,7 @@ name: "Hotfix Checklist"
 about: "Checlist for a new hotfix"
 title: 'Hotfix X.Z.N checklist'
 labels: admin
+type: task
 assignees: ''
 ---
 Hotfix releases must have a release version of X.Y.N where X.Y is the major minor of the _previous_ release and N is the hotfix number.
