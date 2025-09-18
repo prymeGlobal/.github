@@ -2,7 +2,6 @@
 name: "Feature/Enhancement"
 about: "New feature/enhancement!"
 title: ''
-labels: enhancement
 type: feature
 assignees: ''
 ---
