@@ -1,6 +1,6 @@
 ---
 name: "Enhancement"
-about: "Enhancement!"
+about: "Minor change which is non-breaking"
 title: ''
 type: enhancement
 assignees: ''
