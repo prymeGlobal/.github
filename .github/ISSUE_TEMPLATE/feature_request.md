@@ -1,6 +1,6 @@
 ---
 name: "Feature"
-about: "New feature"
+about: "New significant change or addition for functionality"
 title: ''
 type: feature
 assignees: ''
