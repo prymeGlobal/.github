@@ -1,6 +1,6 @@
 ---
-name: "Feature/Enhancement"
-about: "New feature/enhancement!"
+name: "Feature"
+about: "New feature"
 title: ''
 type: feature
 assignees: ''
