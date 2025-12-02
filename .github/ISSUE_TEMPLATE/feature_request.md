@@ -11,6 +11,9 @@ assignees: ''
 ## Detailed functional description
 <!-- A clear and concise description of what you want to happen. Add any considered drawbacks. -->
 
+## Technical considerations
+<!-- Install logic, upgrade logic, performance -->
+
 ## Test Cases
 
 ### Test case 1
