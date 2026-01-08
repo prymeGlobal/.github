@@ -9,7 +9,7 @@ assignees: ''
 The items should be done in order and no later than the day indicated. E.g (T -3d) means at least 3 days before release.
 
 - [ ] All issues are Done (tested, QA'd, documented). _(T -7d)_
-- [ ] _Hotfix_ branches are merged into minor branch, if any. _(T -7d)_
+- [ ] _Hotfix_ branches are merged into main, if any. _(T -7d)_
 - [ ] Release branch created from main. _(T -7d)_
 - [ ]  Version is increased in main. (T -7d)
 - [ ] Regression tests completed _(T -5d)_
