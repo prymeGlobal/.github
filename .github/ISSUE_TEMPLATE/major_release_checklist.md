@@ -1,5 +1,5 @@
 ---
-name: "Release Checklist"
+name: "Release Checklist MAJOR"
 about: "Checlist for a new MAJOR release"
 title: 'Release 202X-ZY checklist'
 labels: admin
@@ -9,10 +9,12 @@ assignees: ''
 The items should be done in order and no later than the day indicated. E.g (T -3d) means at least 3 days before release.
 
 - [ ] All issues are Done (tested, QA'd, documented). _(T -7d)_
+- [ ] Dependencies updated _(T -7d)_
+- [ ] Secrets updated, if any. _(T -7d)_
 - [ ] _Hotfix_ branches are merged into main, if any. _(T -7d)_
 - [ ] Release branch created from main. _(T -7d)_
-- [ ] Version is increased in main. _(T -7d)_ 
-- [ ] Regression tests completed _(T -5d)_
+- [ ] Version is increased in main. _(T -7d)_
+- [ ] Preview version published  _(T -6d)_ 
 - [ ] Release notes are in docs. _(T -1d)_
 - [ ] Release notes with images are sent to marketing. _(T -1d)_
 - [ ] Translations are done. _(T -1d)_
