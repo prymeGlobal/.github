@@ -1,7 +1,7 @@
 ---
-name: "Release Checklist MAJOR"
+name: "Major Release Checklist"
 about: "Checlist for a new MAJOR release"
-title: 'Release 202X-ZY checklist'
+title: 'Release 202X-ZY checklist (major)'
 labels: admin
 type: task
 assignees: ''
